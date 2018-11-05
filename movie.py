@@ -4,6 +4,7 @@ Movie
 Optimized
 Do that user can go back if he push wrong button
 More info about found movie
+End my searching engine, that I write now and create new which will be based on dynamic programing and analysis on close people
 '''
 import json
  
