@@ -153,4 +153,3 @@ def menu():
 		user_input = input(' if you want to add a movie press `a`;\n if you want to see a movie press `w`;\n if you want to finde a movie press `f`;\n if you want to quit press `q`;\n Your choice: ')
 
 menu()
-
